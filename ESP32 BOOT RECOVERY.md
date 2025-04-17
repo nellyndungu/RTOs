@@ -2,11 +2,13 @@ Accidentally pressed the BOOT button of the ESP32
 Resulted to faulire to upload code and the ESP32 was in download mode
 Solution: esptool.py instructions
 1. Check if python is installed
->Use the cmd and type the command *python --version*
->![image](https://github.com/user-attachments/assets/965ec3ff-14cb-428f-9686-a4a59f0ca699)
+>Use the cmd and type the command *python --version* <br>
+
+![image](https://github.com/user-attachments/assets/965ec3ff-14cb-428f-9686-a4a59f0ca699)
 
 2. Install esptool.py
-> Use the command *pip install esptool* in cmd
+> Use the command *pip install esptool* in cmd <br>
+
 ![image](https://github.com/user-attachments/assets/6276f895-24ff-415b-8f6c-22ef216ef916)
 
 3. Identify the correct COM port eg COM7
