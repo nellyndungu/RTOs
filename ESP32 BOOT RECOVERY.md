@@ -1,5 +1,5 @@
-Accidentally pressed the BOOT button of the ESP32
-Resulted to faulire to upload code and the ESP32 was in download mode
+Accidentally pressed the BOOT button of the ESP32. <br>
+Resulted to faulire to upload code and the ESP32 was in download mode. <br>
 Solution: esptool.py instructions
 1. Check if python is installed
 >Use the cmd and type the command *python --version* <br>
