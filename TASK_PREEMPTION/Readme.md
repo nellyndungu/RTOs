@@ -4,7 +4,7 @@ Allows two tasks with different priorities to interact, suspend, resume and dele
 ### Features
 1. Unicore configuration
 2. Dual task execution
-    > Task 1 prints name character by character
+    > Task 1 prints name character by character <br>
     > Task 2 prints astericks repeatedly
 4. Task suspension and resumption
 5. Task deletion
